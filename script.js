@@ -20,7 +20,6 @@ function checkAddress(){
       document.getElementById('output').innerHTML = email
    }
 }
-//---------------------Switch Statements---------------------//
 
 //show output
 function result(name){
